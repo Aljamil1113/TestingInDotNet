@@ -1,2 +1,2 @@
-# TextsCSharp
-Explore testing using C#
+# TestingInDotNet
+Explore testing using .NET
