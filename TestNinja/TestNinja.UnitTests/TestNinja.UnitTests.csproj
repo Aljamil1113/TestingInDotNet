@@ -53,8 +53,11 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MathTests.cs" />
-    <Compile Include="ReservationTests.cs" />
+    <Compile Include="TestFiles\CustomerControllerTests.cs" />
+    <Compile Include="TestFiles\ErrorLoggerTests.cs" />
+    <Compile Include="TestFiles\HtmlFormatterTests.cs" />
+    <Compile Include="TestFiles\MathTests.cs" />
+    <Compile Include="TestFiles\ReservationTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -2,7 +2,7 @@
 using System;
 using TestNinja.Fundamentals;
 
-namespace TestNinja.UnitTests
+namespace TestNinja.UnitTests.TestFiles
 {
     [TestFixture]
     public class ReservationTests
