@@ -54,11 +54,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="TestFiles\CustomerControllerTests.cs" />
+    <Compile Include="TestFiles\DemeritPointsCalculatorTests.cs" />
     <Compile Include="TestFiles\ErrorLoggerTests.cs" />
+    <Compile Include="TestFiles\FizzBuzzTests.cs" />
     <Compile Include="TestFiles\HtmlFormatterTests.cs" />
     <Compile Include="TestFiles\MathTests.cs" />
     <Compile Include="TestFiles\ReservationTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestFiles\StackTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
