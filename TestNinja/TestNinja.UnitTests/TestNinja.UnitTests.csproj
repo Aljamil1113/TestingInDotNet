@@ -66,6 +66,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BreakExternalDependencyTests\OrderServiceTests.cs" />
     <Compile Include="BreakExternalDependencyTests\VideoServiceTests.cs" />
     <Compile Include="TestFiles\CustomerControllerTests.cs" />
     <Compile Include="TestFiles\DemeritPointsCalculatorTests.cs" />
