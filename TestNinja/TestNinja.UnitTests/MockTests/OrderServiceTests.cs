@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TestNinja.Mocking;
 
-namespace TestNinja.UnitTests.BreakExternalDependencyTests
+namespace TestNinja.UnitTests.MockTests
 {
     [TestFixture]
     public class OrderServiceTests

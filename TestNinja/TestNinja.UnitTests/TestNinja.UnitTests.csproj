@@ -66,8 +66,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BreakExternalDependencyTests\OrderServiceTests.cs" />
-    <Compile Include="BreakExternalDependencyTests\VideoServiceTests.cs" />
+    <Compile Include="MockTests\OrderServiceTests.cs" />
+    <Compile Include="MockTests\ProductTests.cs" />
+    <Compile Include="MockTests\VideoServiceTests.cs" />
     <Compile Include="TestFiles\CustomerControllerTests.cs" />
     <Compile Include="TestFiles\DemeritPointsCalculatorTests.cs" />
     <Compile Include="TestFiles\ErrorLoggerTests.cs" />
