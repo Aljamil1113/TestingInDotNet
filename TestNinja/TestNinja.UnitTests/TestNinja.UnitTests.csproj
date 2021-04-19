@@ -53,6 +53,8 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BreakExternalDependencyTests\FakeFileReader.cs" />
+    <Compile Include="BreakExternalDependencyTests\VideoServiceTests.cs" />
     <Compile Include="TestFiles\CustomerControllerTests.cs" />
     <Compile Include="TestFiles\DemeritPointsCalculatorTests.cs" />
     <Compile Include="TestFiles\ErrorLoggerTests.cs" />
