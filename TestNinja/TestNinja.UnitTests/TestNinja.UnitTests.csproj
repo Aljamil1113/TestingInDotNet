@@ -66,8 +66,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MockTests\EmployeeControllerTests.cs" />
     <Compile Include="MockTests\OrderServiceTests.cs" />
     <Compile Include="MockTests\ProductTests.cs" />
+    <Compile Include="MockTests\InstallerHelperTests.cs" />
     <Compile Include="MockTests\VideoServiceTests.cs" />
     <Compile Include="TestFiles\CustomerControllerTests.cs" />
     <Compile Include="TestFiles\DemeritPointsCalculatorTests.cs" />
