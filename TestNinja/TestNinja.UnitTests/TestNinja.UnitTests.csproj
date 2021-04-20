@@ -66,6 +66,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MockTests\BookingHelperTests.cs" />
     <Compile Include="MockTests\EmployeeControllerTests.cs" />
     <Compile Include="MockTests\OrderServiceTests.cs" />
     <Compile Include="MockTests\ProductTests.cs" />
